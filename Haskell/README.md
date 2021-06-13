@@ -28,3 +28,9 @@ After compilation, a binary is generated:
 ```bash
 ./hello
 ```
+
+## Learning Sources
+- [Haskel from the Very Beginning](https://www.haskellfromtheverybeginning.com/)
+
+## Bonus
+Exercises from chapters 2 and 3 of "Haskel from the Very Beginning" were solved.
