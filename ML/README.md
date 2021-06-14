@@ -11,4 +11,5 @@ tar -xzf config.tgz
 config/install.sh
 ```
 
-
+## Sources
+- [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)
