@@ -10,3 +10,4 @@ A repository containing code in 30 languages
 7. [Rust](Rust)
 8. [Common Lisp](CommonLisp)
 9. [Scheme](Scheme)
+10. [Pascal](Pascal)
