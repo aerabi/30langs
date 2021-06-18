@@ -9,4 +9,4 @@ A repository containing code in 30 languages
 6. [F#](F%23)
 7. [Rust](Rust)
 8. [Common Lisp](CommonLisp)
-
+9. [Scheme](Scheme)
