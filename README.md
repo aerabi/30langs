@@ -12,4 +12,5 @@ A repository containing code in 30 languages
 9. [Scheme](Scheme)
 10. [Pascal](Pascal)
 11. [Fortran](Fortran)
+12. [Smalltalk](Smalltalk)
 
