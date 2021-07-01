@@ -13,4 +13,5 @@ A repository containing code in 30 languages
 10. [Pascal](Pascal)
 11. [Fortran](Fortran)
 12. [Smalltalk](Smalltalk)
+13. [Ruby](Ruby)
 
